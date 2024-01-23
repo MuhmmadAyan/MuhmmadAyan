@@ -14,6 +14,16 @@
 - I work on cloud and devops projects which involves containerization , CICD, container orechestration, monitoring etc. 
 - I’m looking to collaborate on **Cloud-native Projects**
 
+<!-- Blog Section -->
+<h3 align="left"><font size="+2" face="Verdana">Blog:</font></h3>
+
+- I write about various DevOps and cloud projects on my blog. Here are some of my recent articles:
+
+  1. https://muhmmadayan.hashnode.dev/
+  2. https://medium.com/@muhmmadayanashiq
+
+Feel free to check them out for in-depth documentation on my projects.
+
 
 
 #### Programming Language Stack
