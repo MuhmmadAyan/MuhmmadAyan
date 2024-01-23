@@ -11,7 +11,7 @@
 <h2 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h2 
 
 - I work on cloud and devops projects which involves containerization , CICD, container orechestration, monitoring etc. 
-- ’m looking to collaborate on **Cloud-native Projects**
+- I am looking to collaborate on **Cloud-native Projects**
 
 <!-- Blog Section -->
 <h2 align="left"><font size="+2" face="Verdana">Blog:</font></h2>
