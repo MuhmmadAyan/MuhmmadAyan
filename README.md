@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Mohammad Ayan </font></h1>
-<h3 align="center"><font face="Arial">Ayan is a final year B.Tech engineering student who is passionate about cloud and devops.Feel free to reach out for any Freelance Projects</font></h3>
+<h3 align="center"><font face="Arial">Ayan is a final year B.Tech engineering student who is passionate about cloud and devops. Feel free to reach out for any Freelance Projects</font></h3>
 
 
 
@@ -8,14 +8,13 @@
 <img align="right" height="300" width="500" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 <!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3 
-
+<h2 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h2 
 
 - I work on cloud and devops projects which involves containerization , CICD, container orechestration, monitoring etc. 
-- I’m looking to collaborate on **Cloud-native Projects**
+- ’m looking to collaborate on **Cloud-native Projects**
 
 <!-- Blog Section -->
-<h3 align="left"><font size="+2" face="Verdana">Blog:</font></h3>
+<h2 align="left"><font size="+2" face="Verdana">Blog:</font></h2>
 
 - I write about various DevOps and cloud projects on my blog. Here are some of my recent articles:
 
