@@ -19,8 +19,8 @@
 
 - I write about various DevOps and cloud projects on my blog. Here are some of my recent articles:
 
-  1. https://muhmmadayan.hashnode.dev/
-  2. https://medium.com/@muhmmadayanashiq
+  - https://muhmmadayan.hashnode.dev/
+  - https://medium.com/@muhmmadayanashiq
 
 Feel free to check them out for in-depth documentation on my projects.
 
