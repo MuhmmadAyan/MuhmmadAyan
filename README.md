@@ -79,7 +79,7 @@ Feel free to check them out for in-depth documentation on my projects.
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/>
 </p>
 
-**Infrastructure as Code (IaaC):**
+**Infrastructure as Code (IaC):**
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/>
   <img src="https://6104926.fs1.hubspotusercontent-na1.net/hubfs/6104926/Imported_Blog_Media/cloudformation-blog-header.jpeg" width="40" height="40"/>
