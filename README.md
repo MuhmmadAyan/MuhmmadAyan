@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Mohammad Ayan </h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Mohammad Ayan </font></h1>
+<h3 align="center"><font face="Arial">Ayan is a final year B.Tech engineering student who is passionate about cloud and devops.Feel free to reach out for any Freelance Projects</font></h3>
 
 
 
