@@ -1,11 +1,14 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Mohammad Ayan </font></h1>
-<h3 align="center"><font face="Arial">Ayan is a final year B.Tech engineering student who is passionate about cloud and devops. Feel free to reach out for any Freelance Projects</font></h3>
+<h3 align="center"><font face="Arial">I am a B.Tech graduate and DevOps Engineer with 1.5+ years of experience in cloud and DevOps field. I hold the 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐨𝐫 (𝐂𝐊𝐀) and 𝐀𝐖𝐒 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫 certifications. 
 
 
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<!-- Certification Logos -->
+<p align="center">
+  <img src="https://github.com/MuhmmadAyan/MuhmmadAyan/blob/main/CKA.png" alt="CKA Logo" width="100" height="100"/>
+  <img src="https://github.com/MuhmmadAyan/MuhmmadAyan/blob/main/AWS.jpeg" alt="CCP Logo" width="100" height="100"/>
+</p>
 
 <!-- Languages and Tools Section -->
 <h2 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h2 
