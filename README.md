@@ -20,9 +20,11 @@
 <h2 align="left"><font size="+2" face="Verdana">Blog:</font></h2>
 
 - I write about various DevOps and cloud projects on my blog. Here are some of my recent articles:
-
-  - https://muhmmadayan.hashnode.dev/
-  - https://medium.com/@muhmmadayanashiq
+  
+  - https://muhmmadayanashiq.wixsite.com/ayan-portfolio-1 (Portfolio Website)
+  - https://www.linkedin.com/in/ayan778/ (Personal LinkedIn)
+  - https://muhmmadayan.hashnode.dev/ (Blog)
+  - https://medium.com/@muhmmadayanashiq (Blog)
 
 Feel free to check them out for in-depth documentation on my projects.
 
