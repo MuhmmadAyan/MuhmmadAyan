@@ -6,6 +6,7 @@
 
 <!-- Certification Logos -->
 <p align="center">
+  <img src="https://github.com/MuhmmadAyan/MuhmmadAyan/blob/main/ncpp.png" alt="NCP-AIO Logo" width="100" height="100"/>
   <img src="https://github.com/MuhmmadAyan/MuhmmadAyan/blob/main/CKA.png" alt="CKA Logo" width="100" height="100"/>
   <img src="https://github.com/MuhmmadAyan/MuhmmadAyan/blob/main/AWS.jpeg" alt="CCP Logo" width="100" height="100"/>
 </p>
