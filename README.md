@@ -1,6 +1,8 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Mohammad Ayan </font></h1>
-<h3 align="center"><font face="Arial">I am a B.Tech graduate and DevOps Engineer with 2.5+ years of experience in cloud and DevOps field. I hold the 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐨𝐫 (𝐂𝐊𝐀) and 𝐀𝐖𝐒 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫 certifications. 
+<h3 align="center"><font face="Arial">I'm a AI Infrastructure and MLOPS Engineer with close to 4 years of experience, worked with multiple companies on DevOps and cloud Technologies. ​
+
+I am a Nvidia Certified, Certified Kubernetes administrator (CKA) and AWS Certified Cloud Practitioner (CCP)  specialised in AWS and GCP, focusing on automating CI/CD workflows, streamlining deployments using Kubernetes, Managing Infrastructure using Terraform (IAC), incorporating GitOps and improving system Observability and monitoring.
 
 
 
